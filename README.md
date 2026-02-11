@@ -274,6 +274,25 @@ NeuroMono works in any JavaScript environment:
 - ✅ Electron
 - ✅ React Native (with appropriate audio buffer handling)
 
+## HTML Demo
+
+Try NeuroMono in your browser with the interactive demo! Just open `demo.html` to:
+
+- Upload your own audio files (MP3, WAV, OGG, FLAC)
+- Configure conversion settings with intuitive sliders
+- Analyze stereo characteristics (width, richness, phase correlation)
+- Compare original and converted waveforms
+- Play and download the converted audio
+
+The demo includes presets for different use cases:
+- 🎤 Voice/Podcast - Optimized for speech
+- 🎵 Music - Maximum quality preservation
+- ⚡ Fast - Real-time processing
+- ⚖️ Balanced - Good quality/speed tradeoff
+- 🔝 Maximum - Best possible output
+
+To use the demo, simply open `demo.html` in a modern web browser.
+
 ## TypeScript
 
 NeuroMono is written in TypeScript and includes full type definitions.
